@@ -1,17 +1,11 @@
-<h1> LANGKAH DAN CARA INSTALASI WEB RUMAH LANDRY </h1>
+Website ini merupakan website laundry. Memiliki 3 jenis paket, yaitu:
+- Cuci Komplit
+- Dry Clean
+- Cuci Satuan
 
-- setelah download. extract file zip yang sudah didownload. masukkan kedalam satu folder. dan beri nama rumah_laundry.
-- copy atau cut folder rumah_laundry ke xampp/htdocs/ kemudian paste.
+Mempunyai 1 aktor yaitu admin. Admin dapat mengelola fitur2 di atas untuk keperluan pendataan pada Laundry. Admin dapat melihat hasil laporan dan invoice serta mencetak struk pembayaran untuk bukti transaksi dari. Admin juga dapat menghapus serta menambahkan sejumlah data karyawan untuk membuka Website ini.
 
-- langkah instalasi
-1. Aktifkan web server bisa menggunakan LAMP, XAMPP, WAMPP, dll.
-	Lalu aktifkan apache dan mysql.
-2. Buka web browser, ketikkan localhost/phpmyadmin pada address bar.
-3. Buat sebuah database dengan nama laundry_app.
-4. Setelah database dibuat, klik database laundry_app.
-5. Import file sql dengan cara klik menu/tab impor pada bagian atas phpmyadmin.
-6. klik Choose file, lalu cari file laundry_app.sql yang sudah disediakan, terakhir klik tombol kirim/go (scroll ke bawah).
-7. Buka tab baru pada web browser kemudian ketikkan localhost/rumah_laundry/
-8. Terakhir, login terlebih dahulu isi username dan password:
-   username: admin
-   password: admin
+Nama Kelompok:
+Muhammad Fatih Khaeran R (4521210063)
+Hanif Agil Musaffa (4521210043)
+Muhammad Adam Ali R (4521210071)
